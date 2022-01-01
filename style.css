@@ -1,0 +1,78 @@
+.half-width{
+    width:40%;
+    float:left;
+    margin-left:5%;
+    padding:2%;
+}
+.half-width img{
+    width:65%;
+}
+.h1{
+    color:red;
+}
+
+.header{
+    background-image:url("header-bg.png");
+
+}
+section{
+    height: 500px;
+    padding-bottom:150px;
+}
+.b{
+    text-decoration:none;
+    background:linear-gradient(45deg,red,tomato);
+    color:white;
+    padding:5px 10px;
+}
+.biography{
+    background-image:url("biography-bg.png");
+}
+.a{
+    width:25%;
+    float:left;
+    margin-left:5%;
+    
+}
+
+.work-class img{
+width:100%;
+}
+.center{
+    text-align: center;
+    color:black;
+}
+.work-class{
+    background-image: url("latest-work-bg.png");
+}
+.client{
+    text-align: center;
+    color:#000;
+}
+.ceo{
+    text-align:center;
+   
+    
+}
+.dimgray{
+    color:dimgray;
+}
+.bold{
+    font-size: bolder;
+    font-weight: 700;
+    text-align:center;
+}
+.final{
+    width:300px;
+    background:linear-gradient(40deg,red,tomato);
+    color:white;
+    text-align: center;
+    margin-left:40%;
+    padding: 20px 10px;
+    
+    
+}
+
+footer{
+    text-align:center;
+}
